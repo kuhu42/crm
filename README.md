@@ -1,5 +1,5 @@
 # Client Realtionship Management (CRM) Software 
-The primary objective of the CRM (Customer Relationship Management) software is to streamline the end-to-end transport process for an e-commerce company, ensuring efficient and transparent operations. The software aims to enhance the customer experience, optimize inventory management, and improve overall operational efficiency by addressing key aspects of the transport process.
+The primary objective of the CRM (Customer Relationship Management) software is to streamline the end-to-end transport process for an e-commerce company, ensuring efficient and transparent operations. The software aims to enhance the customer experience, optimise inventory management, and improve overall operational efficiency by addressing key aspects of the transport process.
 
 ## Main Enhancements
 1. __Accurate Lead Score Calculation:__ Using ML Algorithm for most accurate results
