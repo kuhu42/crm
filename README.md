@@ -1,4 +1,23 @@
 # Client Realtionship Management (CRM) Software 
+The primary objective of the CRM (Customer Relationship Management) software is to streamline the end-to-end transport process for an e-commerce company, ensuring efficient and transparent operations. The software aims to enhance the customer experience, optimize inventory management, and improve overall operational efficiency by addressing key aspects of the transport process.
+
+## Main Enhancements
+1. __Accurate Lead Score Calculation:__ Using ML Algorithm for most accurate results
+2. __Prevent Dead Stock:__ Trend Analysis thus Efficient Inventory Management
+3. __Streamline Transit Time:__ Map Supply Chain Process and Keep the Inventory Flowing
+4. __Improved Strategisation:__ Keep up with present Market Competition and Introduce better Marketing Strategies thus 
+
+## Features
+* __Sales:__
+   * Centralised Customer Data
+   * Automated Sales Process
+   * Sales Forecasting and Trend Analysis
+* __Logistics:__
+    * Transit Time Optimisation
+    * Transparent Going Live Time
+    * Order Tracking
+    * Inventory Management
+  
 ## Dashboard
 ### Front Page
 <img width="1440" alt="Screenshot 2024-03-18 at 23 45 23" src="https://github.com/kuhu42/crm/assets/143384804/669cafc4-c598-4ce5-92ae-c76f5d47461b">
